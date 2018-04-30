@@ -1,0 +1,68 @@
+﻿Teil 1:
+
+
+
+- boolean w= ! ( wahr || falsch ) & wahr | ( wahr && ! falsch ) ^ ! wahr
+
+- Zunächst einmal fasst man alle Inhalte der Klammern zusammen und prüft, ob diese WAHR oder FALSCH sind.
+- Danach bleibt übrig:  ! wahr & wahr | wahr ^ ! wahr
+- Man sollte nun im Internet schauen, welche der bitweise Operatoren die höchste Bindung unter den einzelnen boolean-Werten hat.
+
+=> Stärkste Bindung: &, zweitstärkste: ^ , drittstärkste: |
+
+
+- Man nimmt nun den Rest und Untersucht wieder auf WAHR oder FALSCH!
+
+
+
+=> Es kommt heraus: falsch | wahr   
+=> ist WAHR!!!!!!!!!!!
+
+Die Variable w ist demnach WAHR!
+
+
+
+
+
+
+
+Teil 2:
+
+
+
+- boolean w= ( math.abs (f3-f4) < 1E-3) wäre eine Lösung des Problems!
+
+- Warum es ein Problem gibt:
+    
+		- floats sind ungenau
+    
+		- Ergebnis von f3 und f4 sind nicht dieselben, wegen dieser Ungenauigkeit
+    
+		- Es kommt zu Fehren beim Rechnen
+    
+		- Je größer die Zahl wird, desto ungenauer wird das Ergebnis.
+
+- Lösung:
+  	- Diverenz, ab der 2 Zahlen als gleich angesehen werden (z.B.: 1E-3)
+
+
+
+
+
+
+
+Teil 3:
+
+
+
+- Warum ein Fehler entsteht:
+    
+		- bei Addition von bytes entsteht immer ein Integer
+    
+		- int kann nicht in byte umgewandelt werden, wegen möglichem Datenverlust
+    
+		=> int kann viel größere Werte Speichern
+
+- Lösung:
+    - int c = byte a + byte b
+
