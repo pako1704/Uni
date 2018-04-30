@@ -1,7 +1,4 @@
 .idea
+.eclipse
 .metadata
 .recommenders
-bin
-.classpath
-.project
-.eclipse

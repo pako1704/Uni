@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Random/src"/>
+	<classpathentry kind="src" path="UniBlatt1/asdf/src"/>
+	<classpathentry kind="src" path="UniBlatt1/AufagbenOOP/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Aufgabe1/src"/>
+	<classpathentry kind="src" path="UniBlatt1/AufgabeB/src"/>
+	<classpathentry kind="src" path="UniBlatt1/AufgabeD"/>
+	<classpathentry kind="src" path="UniBlatt1/Cow/src"/>
+	<classpathentry kind="src" path="UniBlatt1/EinfuehrungInJava01/src"/>
+	<classpathentry kind="src" path="UniBlatt1/fgfzuv/src"/>
+	<classpathentry kind="src" path="UniBlatt1/ggt/src"/>
+	<classpathentry kind="src" path="UniBlatt1/iuiuzugzu/src"/>
+	<classpathentry kind="src" path="UniBlatt1/JavaUebung01/src"/>
+	<classpathentry kind="src" path="UniBlatt1/JavaUebung03/src"/>
+	<classpathentry kind="src" path="UniBlatt1/JavaUebung05/src"/>
+	<classpathentry kind="src" path="UniBlatt1/JavaUebung06/src"/>
+	<classpathentry kind="src" path="UniBlatt1/JavaUebung07/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Keis/src"/>
+	<classpathentry kind="src" path="UniBlatt1/learning/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Rekursion/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Rekursion1/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Sheet2/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Sheet3/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Sheet4.1/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Sheet4/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Snake/src"/>
+	<classpathentry kind="src" path="UniBlatt1/SS18Uebungsblätter/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Test/src"/>
+	<classpathentry kind="src" path="UniBlatt1/tic tac toe/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Tut 6/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Tut4/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Tut5/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Tut9/src"/>
+	<classpathentry kind="src" path="UniBlatt1/vdxfgs/src"/>
+	<classpathentry kind="src" path="UniBlatt1/Weihnachtszeit/src"/>
+	<classpathentry kind="src" path="UniBlatt2/AufgabeA"/>
+	<classpathentry kind="src" path="UniBlatt2/Solution Blatt 1D"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Random/bin"/>
+</classpath>
