@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class Company {
     public String companyName, headquarter;
     public Date foundingDate;
